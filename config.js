@@ -1,4 +1,4 @@
-const nameGirl = 'Nguyễn Khánh Huyền';
+const nameGirl = 'Huyền';
 const giftUrl = 'https://www.facebook.com/';
 const eventName = 'Happy Birthday ';
 const titleCard = 'Tặng Huyền';
